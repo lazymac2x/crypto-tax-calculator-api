@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="120" alt="logo"></p>
+
 # Crypto Tax Calculator API
 
 Premium crypto tax calculation engine — REST API + MCP server.
