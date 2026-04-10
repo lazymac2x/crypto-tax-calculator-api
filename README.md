@@ -83,3 +83,5 @@ docker run -p 5300:5300 crypto-tax-calculator
 ## License
 
 MIT
+
+<sub>💡 Host your own stack? <a href="https://m.do.co/c/c8c07a9d3273">Get $200 DigitalOcean credit</a> via lazymac referral link.</sub>
